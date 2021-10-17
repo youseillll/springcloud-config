@@ -1,1 +1,2 @@
-
+config:
+  info:"main branck,springcloud-config/config-dev.yml version=1"
